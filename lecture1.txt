@@ -1,0 +1,4 @@
+git --version
+
+Initialization : git init
+Modification/Adding : git add file_Name

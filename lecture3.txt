@@ -1,0 +1,7 @@
+git log --oneline
+git add .
+
+git checkout 1106db3 
+git checkout master 
+git add .
+git commit -m "New style2.css"
